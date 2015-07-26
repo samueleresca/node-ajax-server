@@ -1,7 +1,6 @@
 //DEPENDENCIES
 var express = require('express');
  
-
 //Initialize Express.js 
 var app = express();
 
